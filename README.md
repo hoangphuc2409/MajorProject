@@ -2,11 +2,6 @@
 
 > Building a unified detection & response (XDR) platform for a simulated enterprise network, using **Wazuh** as the core and integrating open-source security tools such as ModSecurity, Snort, Suricata, ClamAV, and VirusTotal.
 
-![Wazuh](https://img.shields.io/badge/Wazuh-XDR%2FSIEM-0090CF)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-informational)
-![Scenarios](https://img.shields.io/badge/Attack%20Scenarios-8-success)
-![License](https://img.shields.io/badge/License-Academic%20Project-lightgrey)
-
 This repository contains a hands-on study that designs a simulated enterprise network, deploys Wazuh XDR as a central monitoring platform, and validates its detection and automated-response capabilities across attack scenarios.
 
 ---
