@@ -142,10 +142,10 @@ The project confirms that **Wazuh XDR is an effective and powerful platform for 
 
 ```
 MajorProject/
-├── MajorProject_Report.pdf        # Full 51-page project report (Vietnamese)
+├── MajorProject_Report.pdf        # Full project report (Vietnamese)
 ├── WazuhXDR.pptx                  # Presentation slides
 ├── WazuhXDR_Architecture.drawio   # Editable network architecture diagram
-├── Link video demo.md             # Link to the demo videos (Google Drive)
+├── Link video demo.md             # Link to the demo videos
 └── README.md
 ```
 
