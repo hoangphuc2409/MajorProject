@@ -18,7 +18,6 @@ This repository contains a hands-on study that designs a simulated enterprise ne
 - [Future Work](#future-work)
 - [Repository Structure](#repository-structure)
 - [Demo](#demo)
-- [Author](#author)
 
 ---
 
