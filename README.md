@@ -33,10 +33,10 @@ This project uses **Wazuh** — a free, open-source platform that unifies **SIEM
 ## Objectives
 
 - Simulate a realistic enterprise network environment with multiple protected endpoints.
-- Deploy Wazuh XDR as a centralized log-management, detection and response platform.
+- Deploy Wazuh XDR as a centralized log-management, detection, and response platform.
 - Integrate Wazuh with complementary security tools (ModSecurity, Snort, Suricata, ClamAV, VirusTotal, Teler, ELK).
 - Design and execute attack scenarios to validate real-time detection, alerting, and **active response** (automated mitigation).
-- Assess the effectiveness, strengths and limitations of the Wazuh XDR approach.
+- Assess the effectiveness, strengths, and limitations of the Wazuh XDR approach.
 
 ## Architecture
 
@@ -61,7 +61,7 @@ flowchart TB
     end
 
     subgraph MGMT["Management"]
-        WZ["📊 Wazuh Server<br/>SIEM / XDR + ELK<br/>Dashboard & Alerting"]
+        WZ["📊 Wazuh Server<br/>SIEM & XDR<br/>Dashboard & Alerting"]
         VT["☁️ VirusTotal<br/>(Threat Intel)"]
     end
 
